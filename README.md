@@ -1,4 +1,6 @@
 ### Hi there 👋
+<br>
+This is my first GitHub repository
 Author - Allagari Nithin
 
 <!--
